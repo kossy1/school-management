@@ -1,0 +1,6 @@
+{
+  "name": "Premier Crest College - Nigeria School Portal",
+  "description": "Comprehensive Nigerian school management portal featuring WAEC/NECO continuous assessment, Naira fee payments, daily attendance registers, assignments, and parent-teacher communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
